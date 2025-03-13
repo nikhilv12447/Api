@@ -1,1 +1,4 @@
 node_modules
+build
+emitra/googleApis/googleServiceAccountCredentials.json
+.env
